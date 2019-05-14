@@ -1,3 +1,5 @@
 # CSP_Search
 
-Open Terminal. Use gcc to compile. Run!
+1. Open Terminal. 
+2. Use gcc to compile the C file. 
+3. Run!
